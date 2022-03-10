@@ -15,3 +15,10 @@ My csky study
 ## Examples  
 * https://github.com/c-sky/linux-sdk-examples  
 
+## buildroot  
+* https://github.com/c-sky/buildroot/releases/tag/v1.0.1  
+* with csky-linux-tools-x86_64-glibc-linux-4.9.25-20170522.tar.gz  
+* ubuntu1604 64bit  
+* make csky_gx6605s_defconfig  
+* make menuconfig  
+* make  
