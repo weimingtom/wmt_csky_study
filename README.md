@@ -5,3 +5,13 @@ My csky study
 * https://isrc.iscas.ac.cn/gitlab/mirrors/github.com/c-sky_tools  
 * csky-linux-tools-x86_64-glibc-linux-4.9.25-20170522.tar.gz  
 * https://isrc.iscas.ac.cn/gitlab/mirrors/github.com/c-sky_tools/-/blob/master/csky-linux-tools-x86_64-glibc-linux-4.9.25-20170522.tar.gz  
+
+## firmware 
+* https://gitlab.com/c-sky/buildroot/-/jobs/24633630/artifacts/raw/output/images/usb.img  
+
+## PCB  
+* https://github.com/c-sky/tools/blob/master/gx6605s/pcbv1.1.pdf  
+
+## Examples  
+* https://github.com/c-sky/linux-sdk-examples  
+
