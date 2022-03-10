@@ -1,12 +1,13 @@
 # wmt_csky_study
 My csky study
 
-## gcc toolchain  
+## gcc toolchain (for very old version firmware)     
 * https://isrc.iscas.ac.cn/gitlab/mirrors/github.com/c-sky_tools  
 * csky-linux-tools-x86_64-glibc-linux-4.9.25-20170522.tar.gz  
 * https://isrc.iscas.ac.cn/gitlab/mirrors/github.com/c-sky_tools/-/blob/master/csky-linux-tools-x86_64-glibc-linux-4.9.25-20170522.tar.gz  
+* see github.com/c-sky/buildroot/releases for new version toolchain and firmware  
 
-## firmware 
+## firmware (very old version)  
 * https://gitlab.com/c-sky/buildroot/-/jobs/24633630/artifacts/raw/output/images/usb.img  
 
 ## PCB  
